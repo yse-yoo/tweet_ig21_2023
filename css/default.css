@@ -24,3 +24,14 @@ a {
 #side-menu li > img {
     width: 30px;
 }
+
+.profile-image {
+    padding: 0 5px;
+    margin: 0;
+}
+
+.profile-image img {
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+}
