@@ -36,6 +36,11 @@ a {
     border-radius: 50%;
 }
 
+.tweet {
+    padding: 20px 0 0 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
 .tweet-body {
     padding: 5px;
 }
