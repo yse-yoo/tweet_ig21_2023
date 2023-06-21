@@ -35,3 +35,7 @@ a {
     height: 38px;
     border-radius: 50%;
 }
+
+.tweet-body {
+    padding: 5px;
+}
